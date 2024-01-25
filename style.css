@@ -68,3 +68,7 @@ h1 {
 #baby-web {
     border-left: 12px solid black;
 }
+
+footer p {
+    text-align: center;
+}
